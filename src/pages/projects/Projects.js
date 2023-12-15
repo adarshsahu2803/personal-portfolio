@@ -28,7 +28,7 @@ const projectsData = [
     name: "Pose Connect",
     image: "https://drive.google.com/file/d/1dwK4IEpV2MbHS2D5225ZpB6j6jtEaxld/view?usp=drive_link",
     description:
-      "Created a cutting-edge VR motion tracking system, enabling intuitive character control via pose-based keypress simulation.",
+      "A cutting-edge VR motion tracking system, enabling intuitive character control via pose-based keypress simulation.",
     tags: ["Python", "OpenCV", "Mediapipe", "Virtual Reality (VR)"],
     source_code: "https://github.com/adarshsahu2803/BodyTracking",
   }
