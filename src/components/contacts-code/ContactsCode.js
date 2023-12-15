@@ -2,36 +2,26 @@ import React from "react";
 import styles from "./ContactsCode.module.css";
 
 const socialsData = [
-  // {
-  //   social: "website",
-  //   link: "anshphirani.me",
-  //   href: "https://anshphirani.me",
-  // },
   {
     social: "email",
-    link: "sauahrdsrivastava08@gmail.com",
-    href: "mailto:sauahrdsrivastava08@gmail.com",
+    link: "adarshsahu1077@gmail.com",
+    href: "mailto:adarshsahu1077@gmail.com",
   },
   {
     social: "github",
-    link: "sauhard22",
-    href: "https://github.com/sauhard22",
+    link: "adarshsahu2803",
+    href: "https://github.com/adarshsahu2803",
   },
   {
     social: "linkedin",
-    link: "sauhardsrivastava",
-    href: "https://www.linkedin.com/in/sauhardsrivastava/",
+    link: "adarshsahu",
+    href: "https://www.linkedin.com/in/adarshsahu/",
   },
   {
     social: "Leetcode",
-    link: "sauhardsrivastava",
-    href: "https://www.leetcode.com/iec2020097",
-  },
-  // {
-  //   social: "telegram",
-  //   link: "anshphirani",
-  //   href: "https://t.me/anshphirani",
-  // },
+    link: "adarsh2803",
+    href: "https://leetcode.com/adarsh2803/",
+  }
 ];
 
 const ContactsCode = () => {

@@ -3,7 +3,7 @@ import styles from "./About.module.css";
 
 const aboutMe = [
   "Welcome to my portfolio!",
-  "I'm Sauhard Srivastava, a passionate developer with a love for creating interactive and innovative web applications.",
+  "I'm Adarsh Sahu, a passionate developer with a love for creating interactive and innovative web applications.",
   "With a strong foundation in HTML5, CSS3, JavaScript, and React.js, I bring ideas to life by crafting clean, efficient code.",
   "Let's connect and build something amazing together!",
 ];

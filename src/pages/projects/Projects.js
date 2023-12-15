@@ -5,40 +5,33 @@ import ProjectCard from "../../components/project-card/ProjectCard";
 const projectsData = [
   {
     id: 1,
-    name: "Pay-Cart",
-    image: "https://drive.google.com/uc?export=view&id=1ZplxKJjjxxraBLZgkLLS_Lk8Gkj2dXFK",
+    name: "Quest",
+    image: "https://drive.google.com/file/d/1Jok7seurkDOAa8CwXvjyES5CJhLeVq1i/view?usp=drive_link",
+    // image: "https://drive.google.com/uc?export=view&id=11Jf31PsHgiux0eYTG4ktdRWTIv5fH1yu",
     description:
-      "An impressive e-commerce web app with seamless Razorpay integration for secure and smooth payment transactions",
-    tags: ["javascript", "react", "react-redux", "tailwind-css", "firebase"],
-    source_code: "https://github.com/sauhard22/pay-cart",
+      "A dynamic web-based vacation recommendation system with enhanced accuracy through innovative decision tree optimization.",
+    tags: ["JavaScript", "React", "NodeJS", "MongoDB", "Machine Learning"],
+    source_code: "https://github.com/adarshsahu2803/React-Quest-Website",
   },
   {
     id: 2,
-    name: "Whisper Verse",
-    image: "https://drive.google.com/uc?export=view&id=11Jf31PsHgiux0eYTG4ktdRWTIv5fH1yu",
+    name: "Crypto Lens",
+    image: "https://docs.google.com/document/d/1cbqU_zS9b4ZM5zxOTnmXqYoMp0R153Cl/edit?usp=drive_link&ouid=104842468990611091040&rtpof=true&sd=true",
+    // image: "https://drive.google.com/file/d/1VsW8F2c45gFb8LXRJdXIBHG5VfZOFB_2/view?usp=drive_link",
     description:
-      "Web app allows users to receive anonymous comments from others with the random id generated, fostering interaction and feedback.",
-    tags: ["javascript", "react", "react-redux", "mysql", "nodejs", "otp authentication"],
-    source_code: "https://github.com/sauhard22/WhisperVerse",
+      "A web-based tool for Ethereum profile clustering, offering enhanced investment insights for informed decision-making.",
+    tags: ["Python", "Bootstrap", "SQL", "AWS", "Unsupervised ML"],
+    source_code: "https://github.com/adarshsahu2803/CryptoML-Web-App",
   },
   {
     id: 3,
-    name: "Autism Alert",
-    image: "https://drive.google.com/uc?export=view&id=1Sn-ztrR6-hD7YiMSXtwrdXoyFkyPArFN",
+    name: "Pose Connect",
+    image: "https://drive.google.com/file/d/1dwK4IEpV2MbHS2D5225ZpB6j6jtEaxld/view?usp=drive_link",
     description:
-      "Developed ISAA Manual Test app for pediatric autism assessment, featuring 40 purposefully designed questions",
-    tags: ["javascript", "react", "react-native", "axios", "firebase", "firestore"],
-    source_code: "https://github.com/sauhard22/isaa_test_manual",
-  },
-  // {
-  //   id: 4,
-  //   name: "Amazn Clone",
-  //   image: covidTrackerImage,
-  //   description:
-  //     "a amazon clone with full e-commerce functionality and stripe payment gateway integration",
-  //   tags: ["javascript", "react", "stripe"],
-  //   source_code: "https://github.com/anshphirani/amazon-clone",
-  // },
+      "Created a cutting-edge VR motion tracking system, enabling intuitive character control via pose-based keypress simulation.",
+    tags: ["Python", "OpenCV", "Mediapipe", "Virtual Reality (VR)"],
+    source_code: "https://github.com/adarshsahu2803/BodyTracking",
+  }
 ];
 
 const Projects = () => {
