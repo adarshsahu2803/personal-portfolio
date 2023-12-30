@@ -4,6 +4,15 @@ import ProjectCard from "../../components/project-card/ProjectCard";
 
 const projectsData = [
   {
+    id: 1,
+    name: "Pokédex",
+    image: "",
+    description:
+      "Developed a state-of-art Pokedex application that allows users to retrieve, search, and dissect different Pokemon by their statistics.",
+    tags: ["JavaScript", "React", "Tailwind CSS", "API Integration"],
+    source_code: "https://github.com/adarshsahu2803/pokedex-application",
+  },
+  {
     id: 2,
     name: "Quest",
     image: "https://user-images.githubusercontent.com/79298694/290980313-eab8384d-29eb-49bc-bb4b-071a87f514b4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI3MTQzMTUsIm5iZiI6MTcwMjcxNDAxNSwicGF0aCI6Ii83OTI5ODY5NC8yOTA5ODAzMTMtZWFiODM4NGQtMjllYi00OWJjLWJiNGItMDcxYTg3ZjUxNGI0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE2VDA4MDY1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmZjUwYjhmNzQyNGVmMjY3Yzc4NDNlMWZkNTUzMGUxMTRmNDA5NzlkMjljYTRiODMzZTA4NjRiNGM2NWVmOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._2rmyvWQ2X4mRtcmecXj589wnaIos0KZ_AFoGljfR3o",
@@ -30,15 +39,6 @@ const projectsData = [
       "A cutting-edge VR motion tracking system, enabling intuitive character control via pose-based keypress simulation.",
     tags: ["Python", "OpenCV", "Mediapipe", "Virtual Reality (VR)"],
     source_code: "https://github.com/adarshsahu2803/BodyTracking",
-  },
-  {
-    id: 1,
-    name: "Pokédex",
-    image: "",
-    description:
-      "Developed a state-of-art Pokedex application that allows users to retrieve, search, and dissect different Pokemon by their statistics.",
-    tags: ["JavaScript", "React", "Tailwind CSS", "API Integration"],
-    source_code: "https://github.com/adarshsahu2803/pokedex-application",
   }
 ];
 
