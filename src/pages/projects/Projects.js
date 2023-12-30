@@ -6,9 +6,9 @@ const projectsData = [
   {
     id: 1,
     name: "Pokédex",
-    image: "",
+    image: "https://user-images.githubusercontent.com/79298694/293474243-10bc60b1-47ba-40a9-a9fb-4da5a80c5403.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM5NTk5MTgsIm5iZiI6MTcwMzk1OTYxOCwicGF0aCI6Ii83OTI5ODY5NC8yOTM0NzQyNDMtMTBiYzYwYjEtNDdiYS00MGE5LWE5ZmItNGRhNWE4MGM1NDAzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMwVDE4MDY1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwYjY1NjNmMGNhNjQ4ZGM4YzU1ZWJjY2Y1NWUyNWUzY2I1NTZmYzhhZmJjZWZlYWQzZGU4YzkwNDA3M2Q0N2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.GAc2b_DkUEmirCl--sGQb9n8SrIrQiLMH9Z1gyclSmg",
     description:
-      "Developed a state-of-art Pokedex application that allows users to retrieve, search, and dissect different Pokemon by their statistics.",
+      "A state-of-art Pokedex application that allows users to retrieve, search, and dissect different Pokemon by their statistics.",
     tags: ["JavaScript", "React", "Tailwind CSS", "API Integration"],
     source_code: "https://github.com/adarshsahu2803/pokedex-application",
   },
