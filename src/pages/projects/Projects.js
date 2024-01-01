@@ -6,7 +6,7 @@ const projectsData = [
   {
     id: 1,
     name: "Pokédex",
-    image: "https://user-images.githubusercontent.com/79298694/293474243-10bc60b1-47ba-40a9-a9fb-4da5a80c5403.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM5NTk5MTgsIm5iZiI6MTcwMzk1OTYxOCwicGF0aCI6Ii83OTI5ODY5NC8yOTM0NzQyNDMtMTBiYzYwYjEtNDdiYS00MGE5LWE5ZmItNGRhNWE4MGM1NDAzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMwVDE4MDY1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIwYjY1NjNmMGNhNjQ4ZGM4YzU1ZWJjY2Y1NWUyNWUzY2I1NTZmYzhhZmJjZWZlYWQzZGU4YzkwNDA3M2Q0N2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.GAc2b_DkUEmirCl--sGQb9n8SrIrQiLMH9Z1gyclSmg",
+    image: "https://user-images.githubusercontent.com/79298694/293600493-20812c28-4f9b-4a31-90e8-2017f21fedff.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQxMzIwNTEsIm5iZiI6MTcwNDEzMTc1MSwicGF0aCI6Ii83OTI5ODY5NC8yOTM2MDA0OTMtMjA4MTJjMjgtNGY5Yi00YTMxLTkwZTgtMjAxN2YyMWZlZGZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTAxVDE3NTU1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3MjRkMTdlZGM4ZDExNTZmZTY2MzE5MGM0ZTk2ZTIyMDFkMWJmM2E3YmUyMmNkNjg1Y2QyZTJmZGY4ODllMWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.g479Gy2cKUnRBNLqzPEDeNtTZ_gcZLjngrnmHXPB2iY",
     description:
       "A state-of-art Pokedex application that allows users to retrieve, search, and dissect different Pokemon by their statistics.",
     tags: ["JavaScript", "React", "Tailwind CSS", "API Integration"],
@@ -16,7 +16,6 @@ const projectsData = [
     id: 2,
     name: "Quest",
     image: "https://user-images.githubusercontent.com/79298694/290980313-eab8384d-29eb-49bc-bb4b-071a87f514b4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI3MTQzMTUsIm5iZiI6MTcwMjcxNDAxNSwicGF0aCI6Ii83OTI5ODY5NC8yOTA5ODAzMTMtZWFiODM4NGQtMjllYi00OWJjLWJiNGItMDcxYTg3ZjUxNGI0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE2VDA4MDY1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFmZjUwYjhmNzQyNGVmMjY3Yzc4NDNlMWZkNTUzMGUxMTRmNDA5NzlkMjljYTRiODMzZTA4NjRiNGM2NWVmOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._2rmyvWQ2X4mRtcmecXj589wnaIos0KZ_AFoGljfR3o",
-    // image: "https://drive.google.com/uc?export=view&id=11Jf31PsHgiux0eYTG4ktdRWTIv5fH1yu",
     description:
       "A dynamic web-based vacation recommendation system with enhanced accuracy through innovative decision tree optimization.",
     tags: ["JavaScript", "React", "NodeJS", "MongoDB", "Machine Learning"],
