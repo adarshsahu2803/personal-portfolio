@@ -11,6 +11,7 @@ const projectsData = [
       "A state-of-art Pokedex application that allows users to retrieve, search, and dissect different Pokemon by their statistics.",
     tags: ["JavaScript", "React", "Tailwind CSS", "API Integration"],
     source_code: "https://github.com/adarshsahu2803/pokedex-application",
+    url: "https://pokedex-adarsh.netlify.app/",
   },
   {
     id: 2,
@@ -20,6 +21,7 @@ const projectsData = [
       "A dynamic web-based vacation recommendation system with enhanced accuracy through innovative decision tree optimization.",
     tags: ["JavaScript", "React", "NodeJS", "MongoDB", "Machine Learning"],
     source_code: "https://github.com/adarshsahu2803/React-Quest-Website",
+    url: "",
   },
   {
     id: 3,
@@ -29,6 +31,7 @@ const projectsData = [
       "A web-based tool for Ethereum profile clustering, offering enhanced investment insights for informed decision-making.",
     tags: ["Python", "Bootstrap", "SQL", "AWS", "Unsupervised ML"],
     source_code: "https://github.com/adarshsahu2803/CryptoML-Web-App",
+    url: "",
   },
   {
     id: 4,
@@ -38,6 +41,7 @@ const projectsData = [
       "A cutting-edge VR motion tracking system, enabling intuitive character control via pose-based keypress simulation.",
     tags: ["Python", "OpenCV", "Mediapipe", "Virtual Reality (VR)"],
     source_code: "https://github.com/adarshsahu2803/BodyTracking",
+    url: "",
   }
 ];
 
