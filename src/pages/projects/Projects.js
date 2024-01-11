@@ -21,7 +21,7 @@ const projectsData = [
       "A dynamic web-based vacation recommendation system with enhanced accuracy through innovative decision tree optimization.",
     tags: ["JavaScript", "React", "NodeJS", "MongoDB", "Machine Learning"],
     source_code: "https://github.com/adarshsahu2803/React-Quest-Website",
-    url: "https://quest-mern-frontend.vercel.app/",
+    url: "https://quest-client.onrender.com",
   },
   {
     id: 3,
