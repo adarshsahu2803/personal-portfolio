@@ -6,7 +6,7 @@ const graduationData = {
   school: "National Institute of Technology Karnataka",
   degree: "Bachelor of Technology",
   major: "Information Technology",
-  gpa: "7,6/10",
+  gpa: "7.1/10",
   start: "Dec 2020",
   end: "May 2024",
 };
