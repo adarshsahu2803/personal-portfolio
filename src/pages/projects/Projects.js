@@ -42,6 +42,16 @@ const projectsData = [
     tags: ["Python", "OpenCV", "Mediapipe", "Virtual Reality (VR)"],
     source_code: "https://github.com/adarshsahu2803/BodyTracking",
     url: "",
+  },
+  {
+    id: 5,
+    name: "Document Viewer",
+    image: "https://user-images.githubusercontent.com/79298694/291557423-6df53d2d-534e-4159-a721-6fa31161ac3c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI5ODIwMzMsIm5iZiI6MTcwMjk4MTczMywicGF0aCI6Ii83OTI5ODY5NC8yOTE1NTc0MjMtNmRmNTNkMmQtNTM0ZS00MTU5LWE3MjEtNmZhMzExNjFhYzNjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE5VDEwMjg1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkzZWI4MGQyYTRmYTIyYTRhZjRkZTNlMTcyNmYxNGM4YzBlMWM3ODI0Njk1NDFmYjQ5NGU0MWJjODIyNDViZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-wYC1OjmSa5N3Z0OqInwlOHNXTiOF1kb_9pqaume2pQ",
+    description:
+      "A PDF viewer component using React, enabling seamless integration and rendering of documents within web applications.",
+    tags: ["JavaScript", "ReactJS", "Tailwind CSS"],
+    source_code: "https://github.com/adarshsahu2803/doc-viewer",
+    url: "https://document-viewer-adarsh.netlify.app/",
   }
 ];
 
